@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cac82557881e6364eeb88"
+  },
+  "nama": "Syifa",
+  "jumlah_pembayaran": "160.000",
+  "tanggal_pembayaran": "20 September",
+  "metode_pembayaran": "Qris"
+}]

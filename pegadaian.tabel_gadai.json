@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cabfc557881e6364eeb87"
+  },
+  "nama": "Umi",
+  "nilai_barang": "1.550.000",
+  "nilai_pinjaman": "550.000",
+  "tanggal_gadai": "15 Desember 2023"
+}]
